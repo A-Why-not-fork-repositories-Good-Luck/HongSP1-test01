@@ -17,7 +17,7 @@ Session.abandon
 <meta name="description" content="TRF 자산관리 시스템">
 <meta property="og:description" content="TRF 자산관리 시스템">
 <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densitydpi=medium-dpi">
-<title>TRF 자산관리 시스템</title>
+<title>TRF 자산관리 시스템 01</title>
 
 <!-- Le styles -->
 <link href="css/bootstrap.css" rel="stylesheet">
